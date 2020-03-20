@@ -194,11 +194,11 @@ acceptlist = ['south side of lagoon', '**F', 'lagoon', '**S',
               'trench', '**S', 'hope bot', 'S', 'hope gap', '?S', 'pond near barn', '**S',
               'seaford head', '?S', 'transect', 'S',
               'cuckmere haven', '?N', 'cuckmere valley', '?N',
-              'national trust', 'N' ]
+              'national trust', 'N', "cabi", 'S' ]
 
 rejectlist = ["churchyard", "peters", "peter's", "leonard", "splash", "chyngton rd.", "chyngton farm",
               "chyngton way", "cottage", "coastguard", "garden", "exceat", "lullington", "ington pond", "blatchington",
-              "seaford beach", " town", "==reject"]
+              "seaford beach", " town", "==reject", "barn"]
 
 # universalerror = ''
 
